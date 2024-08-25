@@ -34,6 +34,7 @@ This repository is a collection of resources, tools, and guides to help you prep
    - [Forensics](#forensics)
      - [Introduction to Forensics](#introduction-to-forensics)
      - [File Analysis](#file-analysis)
+     - [Metadata Analysis](#metadata-analysis) 
      - [Memory Forensics](#memory-forensics)
      - [Network Forensics](#network-forensics)
      - [Steganography](#steganography)
